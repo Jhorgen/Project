@@ -1,6 +1,7 @@
 body {
   background-color:
 }
+
 img {
   float: left;
   margin-left: 20px;
@@ -10,8 +11,19 @@ img {
   margin-bottom: 3px;
 }
 
-.code {
+.aa {
+  float: none;
+  position: absolute;
+  margin-left: 43em;
+  font-family: times;
+  font-size: 32px;
+}
 
+.bb {
+  margin-left: 85em;
+  padding-right: 10px;
+  margin-top: 50px;
+  position: absolute;
 }
 
 .list1 {
