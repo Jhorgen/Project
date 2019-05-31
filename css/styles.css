@@ -43,6 +43,7 @@ ul li {
   padding: 15px 20px;
   margin: 5px 5px;
   margin-left: 10px;
+  font-family: times;
 }
 
 /* headers */
@@ -74,9 +75,7 @@ font-weight: bolder;
 #footer {
  font-family: times;
  font-size: 15px;
- background-color: darkred;
- color: white;
- padding-top: 15px;
- padding-bottom: 15px;
- padding-left: 15px;
+ position: absolute;
+  bottom:0;
+  width:100%;
 }
