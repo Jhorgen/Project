@@ -1,5 +1,11 @@
-.container-fluid {
-margin-bottom: 25px;
+.container {
+
+}
+
+img {
+  float: left;
+  margin-left: 25px;
+  border: 2px solid darkgray;
 }
 
 .list1 {
@@ -19,13 +25,25 @@ text-align: center;
 border: 5px solid darkgray;
 font-size: 100px;
 background-color: beige;
+font-family: times;
+font-weight: bolder;
 }
 
 .header2 {
-margin-left: 40px;
+  text-align: center;
+  margin-bottom: 30px;
+  margin-right: 300px;
+  padding-top: 25px;
+  font-size: 45px;
+  font-style: italic;
+  font-family: times;
+  background-color: darkred;
+  color: white;
+  display:
 }
 
-.header3 {
-  text-align: center;
-  margin-bottom: 25px;
+body {
+  margin: 0
+  paddding: 0;
+  font-family: sans-serif;
 }
