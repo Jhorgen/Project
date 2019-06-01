@@ -71,11 +71,3 @@ font-weight: bolder;
 }
 
 /* footer */
-
-#footer {
- font-family: times;
- font-size: 15px;
- position: absolute;
-  bottom:0;
-  width:100%;
-}
