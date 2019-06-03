@@ -19,6 +19,7 @@ img {
   font-weight: bold;
   font-size: 40px;
   padding: 10px;
+  font-family: 'Leckerli One', cursive;
 
 }
 
@@ -49,13 +50,15 @@ ul li {
 /* headers */
 
 .header1 {
-margin-bottom: 20px;
+/* margin-bottom: 20px; */
 text-align: center;
-border: 3px solid gray;
-font-size: 100px;
+/* border: 3px solid gray; */
+/* font-size: 100px; */
 background-color: beige;
 font-family: times;
 font-weight: bolder;
+font-family: 'Leckerli One', cursive;
+font-size: 100px;
 }
 
 .header2 {
@@ -65,7 +68,7 @@ font-weight: bolder;
   padding-top: 25px;
   font-size: 45px;
   font-style: italic;
-  font-family: times;
+  font-family: 'Leckerli One', cursive;
   background-color: darkred;
   color: white;
 }

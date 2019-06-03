@@ -1,21 +1,26 @@
-# _About Me_
-{This is a project that I made for my progranning class.}, {5-31-2019}
-By {Joshua Horgen}
-Description
-{This webpage contains information about me, my projects or portfoilio, and more.}
+# _Week 1 Independent Project_
 
-Setup/Installation Requirements
-Internet access
-Web browser
+# _*5-31-2019*_
 
-Known Bugs
-*Footer not loading
+#### _This is a project that I made for my progranning class._
 
-Support and contact details
-{Joshua Horgen: Jhorgen@gmail.com}
+## _By Joshua Horgen_
 
-Technologies Used
-{Written in Atom. I used HTML/CSS/Bootstrap to structure the webpage.}
+## _Description_
+#### _This webpage contains information about me, my projects or portfolio, and more._
 
-License
-Copyright (c) 2019 {Joshua Horgen}
+## _Setup/Installation Requirements_
+#### _Internet access_
+#### _Web browser_
+
+## _Known Bugs_
+#### _Footer not loading_
+
+# _Support and contact details_
+## _Joshua Horgen: Jhorgen@gmail.com_
+
+## _Technologies Used_
+#### _Written in Atom. I used HTML/CSS/Bootstrap to structure the webpage._
+
+#### _License_
+##### _Copyright (c) 2019 Joshua Horgen_
