@@ -1,4 +1,4 @@
-{About Me}
+# _About Me_
 {This is a project that I made for my progranning class.}, {5-31-2019}
 By {Joshua Horgen}
 Description
