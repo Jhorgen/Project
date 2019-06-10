@@ -2,8 +2,8 @@
 
 # _*5-31-2019*_
 
-##_Description_
-#### _This is a project that I made for my programming class. I utilized HTML, CSS, and bootstrap to create an about me/portfolio page. _
+## _Description_
+#### _This is a project that I made for my programming class. I utilized HTML, CSS, and bootstrap to create an about me/portfolio page._
 
 ## _By Joshua Horgen_
 
