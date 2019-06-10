@@ -2,25 +2,29 @@
 
 # _*5-31-2019*_
 
-#### _This is a project that I made for my progranning class._
+##Description
+#### _This is a project that I made for my programming class. I utilized HTML, CSS, and bootstrap to create an about me/portfolio page. _
 
 ## _By Joshua Horgen_
 
-## _Description_
-#### _This webpage contains information about me, my projects or portfolio, and more._
-
 ## _Setup/Installation Requirements_
-#### _Internet access_
-#### _Web browser_
+#### _Step 1: Visit [https://github.com/Jhorgen/Project]_
+#### _Step 2: Click the green "Clone or Download" button and copy the link.
+#### _Step 3: Open Git Bash and use the command: "git clone _____URL______"
+
+### Alternatively, visit [https://jhorgen.github.io/Project/] for a preview of my project.
 
 ## _Known Bugs_
-#### _Footer not loading_
+#### _Foot not loading_
 
 # _Support and contact details_
-## _Joshua Horgen: Jhorgen@gmail.com_
+## _Joshua Horgen: Joshua.horgen@gmail.com_
 
 ## _Technologies Used_
-#### _Written in Atom. I used HTML/CSS/Bootstrap to structure the webpage._
+#### _Written in Atom.
+#### _HTML_
+#### _CSS_
+#### _Bootstrap_
 
 #### _License_
 ##### _Copyright (c) 2019 Joshua Horgen_
